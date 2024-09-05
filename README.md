@@ -5,7 +5,7 @@
 
 <div align="center">
     <p>🌱 I’m currently learning at hhu</p>
-    <p>⛳ My blog url: <a href="https://github.com/cv-cat">CVcat Home</a></p>
+    <p>⛳ My blog url: <a href="https://cvcat.site">CVcat Home</a></p>
     <p>📫 Chat with me: CVZC15751076989(wx) | 992822653(qq)</p>
     <p>🎯 Looking for an internship</p>
 </div>
