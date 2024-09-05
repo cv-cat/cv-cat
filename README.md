@@ -3,10 +3,24 @@
 </div>
 
 <div align="center">
-  🌱 I’m currently learning at hhu<br><br>
-  ⛳ My blog url: <a href="https://github.com/cv-cat">CVcat Home</a><br>
-  📫 Chat with me: CVZC15751076989(wx) | 992822653(qq)<br>
-  🎯 Looking for an internship<br>
+  <ul>
+    <li>
+      🌱 I’m currently learning at hhu
+    </li>
+    <li>
+      ⛳ My blog url: <a href="https://github.com/cv-cat">CVcat Home</a>
+    </li>
+    <li>
+      📫 Chat with me: CVZC15751076989(wx) | 992822653(qq)
+    </li>
+    <li>
+      🎯 Looking for an internship
+    </li>
+  </ul>
+  
+  
+  
+  
 </div>
   
 <div align="center">
