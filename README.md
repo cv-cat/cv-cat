@@ -6,4 +6,4 @@
 - 🎯 Looking for an internship
 
 
-![cv-cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv-cat&show_icons=true&theme=radical)
+![cv-cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv-cat&show_icons=true&theme=transparent)
