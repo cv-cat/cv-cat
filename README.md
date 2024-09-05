@@ -3,19 +3,10 @@
 </div>
 
 <div align="center">
-  <ul style="list-style: none; list-style-type: none; ">
-    <li>
-      🌱 I’m currently learning at hhu
-    </li>
-    <li>
-      ⛳ My blog url: <a href="https://github.com/cv-cat">CVcat Home</a>
-    </li>
-    <li>
-      📫 Chat with me: CVZC15751076989(wx) | 992822653(qq)
-    </li>
-    <li>
-      🎯 Looking for an internship
-    </li>
+    <p>🌱 I’m currently learning at hhu</p>
+    <p>⛳ My blog url: <a href="https://github.com/cv-cat">CVcat Home</a></p>
+    <p>📫 Chat with me: CVZC15751076989(wx) | 992822653(qq)</p>
+    <p>🎯 Looking for an internship</p>
   </ul>
   
   
