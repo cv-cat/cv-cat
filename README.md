@@ -2,12 +2,14 @@
     <h1>Hi there 👋 this is CVcat</h1>
 </div>
 
+
 <div align="center">
     <p>🌱 I’m currently learning at hhu</p>
     <p>⛳ My blog url: <a href="https://github.com/cv-cat">CVcat Home</a></p>
     <p>📫 Chat with me: CVZC15751076989(wx) | 992822653(qq)</p>
     <p>🎯 Looking for an internship</p>
 </div>
+
 
 <div align="center">
     <a href="https://cvcat.site">
@@ -17,6 +19,7 @@
         <img src="https://img.shields.io/badge/CVcat-GitHub-mediumpurple" alt="https://github.com/cv-cat">
     </a>
 </div>
+
   
 <div align="center">
     <a href="https://github.com/cv-cat">
