@@ -1,4 +1,7 @@
-### Hello I'm cv-cat 🧸
+<div align="center">
+<h1>Hi there 👋 this is CVcat</h1>
+</div>
+
 
 - 🌱 I’m currently learning at hhu
 - ⛳ My blog url: [CVcat Home](https://cvcat.site "CVcat Home")
