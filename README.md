@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <ul>
+  <ul style="list-style: none; ">
     <li>
       🌱 I’m currently learning at hhu
     </li>
