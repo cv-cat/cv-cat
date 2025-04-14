@@ -4,20 +4,7 @@
 
 
 <div align="center">
-    <p>🌱 I’m currently learning at hhu</p>
-    <p>⛳ My blog: <a href="https://cvcat.site">CVcat Home</a></p>
     <p>📫 Reach me: CVZC15751076989(wx) | 992822653(qq)</p>
-    <p>🎯 Looking for an internship</p>
-</div>
-
-
-<div align="center">
-    <a href="https://cvcat.site">
-        <img src="https://img.shields.io/badge/CVcat-Home-skyblue" alt="cvcat.site">
-    </a>
-    <a href="https://github.com/cv-cat">
-        <img src="https://img.shields.io/badge/CVcat-GitHub-mediumpurple" alt="https://github.com/cv-cat">
-    </a>
 </div>
 
   
