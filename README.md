@@ -14,7 +14,8 @@
         <img height=180 align="center" src="https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314d4fmkh5q6g5opfn26ov65182rk9m0?imageView2/2/w/540/format/webp|imageMogr2/strip2" />
     </a>
     <a href="https://github.com/cv-cat">
-        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=cv-cat&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+        <img height=180 align="center" src="https://github-readme-stats-roan-beta-68.vercel.app/api?username=cv-cat&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
     </a>
 </div>
+
 
