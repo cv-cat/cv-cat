@@ -2,8 +2,6 @@
 
 ### Hi there 👋 this is CVcat 
 
-![lloydzhou's github visitor](https://profile-counter.glitch.me/lloydzhou/count.svg)
-
 - 🔭 I'm currently focusing on AI agent development.
 - ⛳ My blog: <a href="https://cvcat.site">CVcat</a>
 - 📫 Reach me: CVZC15751076989 (WeChat) | 992822653 (QQ)
